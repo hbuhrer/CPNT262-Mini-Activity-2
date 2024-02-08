@@ -53,4 +53,4 @@ To run the project, simply open `index.html` in a web browser.
 
 ## Const vs Let Example
 
-Added an example demonstrating the difference between `const` and `let` in JavaScript. Refer to the `index.html` and `script.js` files for the example implementation.
+Added an example demonstrating the difference between `const` and `let` in JavaScript. Refer to the `index.html` and `client.js` files for the example implementation.
