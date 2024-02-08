@@ -10,8 +10,8 @@ This project demonstrates how to use client-side JavaScript to manipulate HTML e
 
 ## Files
 
-- `index.html`: HTML file that imports `script.js` and displays JavaScript variables on the page.
-- `script.js`: JavaScript file containing the logic to demonstrate the use of `const` and `let`.
+- `index.html`: HTML file that imports `client.js` and displays JavaScript variables on the page.
+- `client.js`: JavaScript file containing the logic for before and after values and an example of the use of `const` and `let`.
 - `README.md`: This file providing instructions and overview of the project.
 
 ## Setup
